@@ -1,4 +1,4 @@
-# 🔥 ani-cli FIXED by [ErenYeager01001A](https://github.com/ErenYeager01001A) 🔥
+# 🔥 ani-cli FIXED 🔥
 **We worked day and night to crack the new AES-256-CTR `tobeparsed` encryption from AllAnime!**
 **The script is back online and better than ever! Let's goooo! 🚀**
 
